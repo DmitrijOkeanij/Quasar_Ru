@@ -4,6 +4,7 @@
 
 - [Правила группы](PRAVILA.md)
 - [FAQ самые распространённые вопросы и ответы по Quasar](FAQ.md)
+- [StackOverflow Quasar шаблон](StackOverflow.Template.md)
 - Обучающие материалы
   
 ## Сcылки
