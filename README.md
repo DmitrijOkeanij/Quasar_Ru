@@ -12,4 +12,4 @@ https://t.me/quasar_ru
 ## Сcылки
 
 - Telegram группа [Quasar_Ru](https://t.me/quasar_ru)
-- Русскоязычный сайтовый движок на Quasar и DotNet - [SunEngine](https://github.com/sunengine/SunEngine) на GitHub.
+- Русскоязычный сайтовый движок на Quasar и DotNet - [SunEngine](https://github.com/sunengine/SunEngine)
