@@ -1,5 +1,7 @@
 # Quasar_Ru - Русскоязычное Telegram сообщество Quasar Framework
 
+https://t.me/quasar_ru
+
 ## Оглавление
 
 - [Правила группы](PRAVILA.md)
