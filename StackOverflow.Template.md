@@ -1,5 +1,7 @@
 # Рабочий код для вставки в StackOverflow c шаблоном Quasar
 
+Это код сниппета HTML, CSS, JavaScript , в котором прямо с сайта можно запускать и смотреть код примера.
+
 ```
 <!-- begin snippet: js hide: false console: true babel: false -->
 
