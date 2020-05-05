@@ -1,4 +1,4 @@
-# Переводим
+# To translate - Для перевода
 
 [Why Quasar?](https://quasar.dev/introduction-to-quasar)
 
@@ -53,7 +53,7 @@ Quasar CLI
 
 --- 
 
-### Вторая очередь
+### Second Queque - Вторая очередь
 
 * Developing SSR
    * [Introduction](https://quasar.dev/quasar-cli/developing-ssr/introduction#Introduction)
