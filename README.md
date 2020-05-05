@@ -7,6 +7,7 @@ https://t.me/quasar_ru
 - [Правила группы](PRAVILA.md)
 - [FAQ самые распространённые вопросы и ответы по Quasar](FAQ.md)
 - [StackOverflow Quasar шаблон](StackOverflow.Template.md)
+- [На перевод](translate.md)
 - Обучающие материалы
   
 ## Сcылки
