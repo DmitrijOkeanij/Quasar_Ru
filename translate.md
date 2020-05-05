@@ -53,7 +53,7 @@ Quasar CLI
 
 --- 
 
-### Second Queque - Вторая очередь
+### Second Queue - Во вторую очередь
 
 * Developing SSR
    * [Introduction](https://quasar.dev/quasar-cli/developing-ssr/introduction#Introduction)
