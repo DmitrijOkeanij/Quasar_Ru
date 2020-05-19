@@ -8,3 +8,7 @@
 ### [[Ссылка]](https://ru.stackoverflow.com/questions/1108197/Суммирование-в-столбцах-qtable-компонента-quasar) - Как сделать суммирование в столбцах QTable в футере.
 
 ### [[Ссылка]](https://ru.stackoverflow.com/questions/1116915/Как-использовать-vue-root-вместо-vuex) - Как использовать Vue root state вместо Vuex. 
+
+### [[Ссылка]](https://ru.stackoverflow.com/questions/1124745/Локализация-сайта-Отчёт-о-пропущенных-и-неиспользуемых-сообщениях-quasar-i18n) - Локализация сайта: Отчёт о пропущенных и неиспользуемых сообщениях (Quasar, I18n)
+
+### [[ccskrf]](https://ru.stackoverflow.com/questions/tagged/quasar-framework) Все вопросы по Quasar-Framework на Ru.StackOverflow
