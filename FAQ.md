@@ -11,4 +11,4 @@
 
 ### [[Ссылка]](https://ru.stackoverflow.com/questions/1124745/Локализация-сайта-Отчёт-о-пропущенных-и-неиспользуемых-сообщениях-quasar-i18n) - Локализация сайта: Отчёт о пропущенных и неиспользуемых сообщениях (Quasar, I18n)
 
-### [[ccskrf]](https://ru.stackoverflow.com/questions/tagged/quasar-framework) Все вопросы по Quasar-Framework на Ru.StackOverflow
+### [[Ссылка]](https://ru.stackoverflow.com/questions/tagged/quasar-framework) - Все вопросы по Quasar-Framework на Ru.StackOverflow
